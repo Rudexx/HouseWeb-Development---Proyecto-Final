@@ -30,7 +30,7 @@ Soporte técnico: Debe existir la opción de redireccionar a la persona a un age
 ![Diagrama de Casos de uso](https://i.ibb.co/jLgv3rV/D-casos-de-uso.png)
 ![Diagrama de Clases](https://i.ibb.co/DVD8g8C/Diagrama-de-Clases.png)
 ![.](https://i.ibb.co/vvpyrmF/Copia-de-D-casos-de-uso.png)
-![Diagrama de secuencias 1](<a href="https://ibb.co/Lg86f0v"><img src="https://i.ibb.co/5j6vV12/D-Secuencias-1.png" alt="D-Secuencias-1" border="0"></a>)
+![Diagrama de secuencias 1](https://i.ibb.co/QHfnGJX/D-Secuencias-1.png)
 ![Diagrama de Secuencias 2](https://i.ibb.co/59j3Rvx/D-Secuencias-2.png)
 ![Diagrama de Secuencias 3](https://i.ibb.co/gVsmXwp/D-Secuencias-3.png)
 ![Diagrama de Secuencias 4](https://i.ibb.co/bghCNgj/D-Secuencias-4.png)
