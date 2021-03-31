@@ -16,5 +16,16 @@ Soporte tipo Bot:  Debe existir la capacidad, para solicitar la ayuda de un Bot 
 Consulta de información: Debe permitir a un funcionario ver la información agregada y todo el historial sobre el uso de la plataforma.
 Soporte técnico: Debe existir la opción de redireccionar a la persona a un agente de soporte al ciudadano.
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://ibb.co/p1QMXNC)
+![GitHub Logo](https://ibb.co/X2Z3k3s)
+![GitHub Logo](https://ibb.co/f2pNtJj)
+![GitHub Logo](https://ibb.co/m9xFP4T)
+![GitHub Logo](https://ibb.co/ynTZgnm)
+![GitHub Logo](https://ibb.co/3zJJpZz)
+![GitHub Logo](https://ibb.co/0VT4WZ7)
+![GitHub Logo](https://ibb.co/Lg86f0v)
+![GitHub Logo](https://ibb.co/YWdSL8T)
+![GitHub Logo](https://ibb.co/5FqGzvy)
+![GitHub Logo](https://ibb.co/K9FjVrN)
+
 Format: ![Alt Text](url)
