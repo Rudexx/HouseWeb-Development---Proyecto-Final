@@ -16,3 +16,14 @@ Soporte tipo Bot:  Debe existir la capacidad, para solicitar la ayuda de un Bot 
 Consulta de información: Debe permitir a un funcionario ver la información agregada y todo el historial sobre el uso de la plataforma.
 Soporte técnico: Debe existir la opción de redireccionar a la persona a un agente de soporte al ciudadano.
 
+(https://ibb.co/p1QMXNC)
+(https://ibb.co/X2Z3k3s)
+(https://ibb.co/f2pNtJj)
+(https://ibb.co/m9xFP4T)
+(https://ibb.co/ynTZgnm)
+(https://ibb.co/3zJJpZz)
+(https://ibb.co/0VT4WZ7)
+(https://ibb.co/Lg86f0v)
+(https://ibb.co/YWdSL8T)
+(https://ibb.co/5FqGzvy)
+(https://ibb.co/K9FjVrN)
