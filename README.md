@@ -26,6 +26,6 @@ Soporte técnico: Debe existir la opción de redireccionar a la persona a un age
 ![GitHub Logo](https://ibb.co/Lg86f0v)
 ![GitHub Logo](https://ibb.co/YWdSL8T)
 ![GitHub Logo](https://ibb.co/5FqGzvy)
-![GitHub Logo](https://ibb.co/K9FjVrN)
+![ho](https://ibb.co/K9FjVrN)
 
 Format: ![Alt Text](url)
